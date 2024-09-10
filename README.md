@@ -4,10 +4,10 @@ Done in collaboration with Zhaoyu Bai and Yaozhang Zhou.
 
 Goal: automate the plotting of Streda lines (associated with quantum Hall effect) from dirty experimental figures.
 
-A typical experimental figure looks like (taken from https://www.nature.com/articles/s41586-021-04002-3)
+A typical experimental figure (original input) and its Streda plot (grund truth) look like (taken from https://www.nature.com/articles/s41586-021-04002-3)
 
+![Alt text](/orginal_vs_ground_truth.png?raw=true "orginal_vs_ground_truth") 
 
- and its post-propcessed plot (ground truth) looks like 
 
 
 and we aim to automate such plottings.

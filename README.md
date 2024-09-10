@@ -25,7 +25,7 @@ We use the UNET architecture (a variant of CNN) to achieve the line thinning tas
 
 ## Result
 
-After the model is trained,  we run "plot_and_save.py" to juxtapose and compare the inferenced output and the actual ground truth: 
+After the model is trained,  we run "plot_and_save.py" to perform inference, juxtapose and compare the inferenced output and the actual ground truth: 
 
 ![Alt text](/three_images_comparison_unfiltered.png?raw=true "synthetic_orginal_vs_ground_truth") 
 

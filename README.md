@@ -16,6 +16,6 @@ The main "dirt" of the experimental figures is in fact the line-brodening effect
 
 Due to the scarcity of actual experimental figures,  we generate synthetic data of random straight lines (ground truth) and their broadened version (input) using MATLAB ("run_script.m" in /synthetic_data_gen_matlab/).  
 
-A synthetic input looks like
+A synthetic input and its ground truth look like
 
 ![Alt text](/synthetic_input_vs_ground_truth.png?raw=true "synthetic_orginal_vs_ground_truth") 

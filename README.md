@@ -20,4 +20,4 @@ Due to the scarcity of actual experimental figures,  we generate synthetic data 
 
 A synthetic input looks like
 
-![Alt text](/thick_lines_synthetic/run_001.png?raw=true "synthetic input") 
+![Alt text](/thick_lines_synthetic/run_001.png?raw=true "synthetic input"| width=300) 

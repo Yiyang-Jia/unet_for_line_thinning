@@ -6,11 +6,9 @@ Goal: automate the plotting of Streda lines (associated with quantum Hall effect
 
 A typical experimental figure looks like (taken from https://www.nature.com/articles/s41586-021-04002-3)
 
-![Alt text](/nature_imag_cropped.png?raw=true "original") 
 
  and its post-propcessed plot (ground truth) looks like 
 
-![Alt text](/hand_drawn_cropped.png?raw=true "ground truth") 
 
 and we aim to automate such plottings.
 
@@ -20,4 +18,4 @@ Due to the scarcity of actual experimental figures,  we generate synthetic data 
 
 A synthetic input looks like
 
-![Alt text](/thick_lines_synthetic/run_001.png?raw=true "synthetic input"| width=300) 
+![Alt text](/thick_lines_synthetic/run_001.png?raw=true "synthetic input") 

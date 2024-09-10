@@ -2,6 +2,9 @@
 
 Goal: automate the ploting of Streda lines (associated with quantum Hall effect) from dirty experimental figures.
 
-A typical pre-processed experimental figure and its post-propcessed plot (ground truth) look like 
+A typical pre-processed experimental figure looks like 
 
-![Alt text](/nature_imag_cropped.png?raw=true "original")
+![Alt text](/nature_imag_cropped.png?raw=true "original")  --->
+
+
+ and its post-propcessed plot (ground truth) look like 

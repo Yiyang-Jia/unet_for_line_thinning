@@ -32,3 +32,6 @@ After the model is trained,  we run "plot_and_save.py" to juxtapose and compare 
 we can sharpen the visuals by filtering the inferenced imaged to black and white: 
 
 ![Alt text](/three_images_comparison.png?raw=true "synthetic_orginal_vs_ground_truth") 
+
+## Discussion
+The model works well in the region where the lines are not too densely distributed,  and the color is not too light.  Otherwise the result is not accurate.  The main bottleneck for our project is the scarcity of actual experimental data and their ground truths,  and the crudeness of synthetic data.

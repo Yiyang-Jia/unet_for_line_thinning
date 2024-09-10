@@ -21,7 +21,7 @@ A synthetic input and its ground truth look like
 
 ![Alt text](/synthetic_input_vs_ground_truth.png?raw=true "synthetic_orginal_vs_ground_truth") 
 
-To generate these synthetic data, run "run_script.m" in the synthetic_data_gen_matlab/ folder.  We should twenty such examples in thick_lines_synthetic/ and thin_lines_synthetic/ folders.
+To generate these synthetic data, run "run_script.m" in the synthetic_data_gen_matlab/ folder.  We store twenty such examples in thick_lines_synthetic/ and thin_lines_synthetic/ folders.  In the actual training we used 500 pairs of synthetic samples.
 
 We use the UNET architecture (a variant of CNN) to achieve the line thinning task. Weight file is "unet_model.py", and we use "train.py" to train the model.  
 

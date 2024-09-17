@@ -15,7 +15,7 @@ and we aim to automate such plottings.
 ## Methodology
 The main "dirt" of the experimental figures is the line-broadening side effect of the experimental technology,  so our main task is to thin the broadened lines/stripes.
 
-Due to the scarcity of actual experimental figures,  we generate synthetic data of random straight lines (ground truth) and their broadened version (input)   
+Due to the scarcity of actual experimental figures (and their ground truths),  we generate synthetic data of random straight lines (ground truth) and their broadened version (input)   
 
 A synthetic input and its ground truth look like
 

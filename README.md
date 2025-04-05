@@ -1,6 +1,6 @@
 ## Machine learning class project: processing experimental figures using convolutional neural networks 
 
-Done in collaboration with Zhaoyu Bai and Yaozhang Zhou.
+Machine learning class project. Done in collaboration with Zhaoyu Bai and Yaozhang Zhou.
 
 ## Goal 
 
